@@ -1,0 +1,1 @@
+<a href="index.php">Home </a>&nbsp;| &nbsp;<a href="sobre.php">Sobre </a>&nbsp;| &nbsp;<a href="exames.php">Exames&nbsp;</a>&nbsp;| &nbsp;<a href="unidades.php">Unidades</a> | &nbsp;<a href="contato.php">Fale Conosco</a>
